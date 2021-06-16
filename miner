@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo "BigBootyHunter Mobile Miner Installtion Script 0.1"
-apt-get update && apt-get upgrade
+echo "####### BigBootyHunter's Mobile Miner Installation Script V2 ########"
+apt-get update  
+apt-get upgrade
 apt-get install wget
 apt-get install proot
 apt-get install git
@@ -12,11 +13,11 @@ cd ubuntu-in-termux
 ls
 chmod +x ubuntu.sh
 ./ubuntu.sh
-./starubuntu.sh
+./startubuntu.sh
 apt update
 apt upgrade
 apt-get install git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev
-git clone git://github.com/xmrig.git
+git clone git://github.com/xmrig/xmrig.git
 cd xmrig
 ls
 mkdir build
@@ -24,7 +25,7 @@ ls
 cd build
 apt-get update
 apt-get install libhwloc-dev
-cmake..
+cmake ..
 make
 exit
 exit
