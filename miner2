@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "####### BigBootyHunter's Mobile Miner Installation Script V2 ########"
 apt update
 apt upgrade
 apt-get install git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev
