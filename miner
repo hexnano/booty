@@ -1,6 +1,12 @@
 #!/bin/bash
+#.   curl -o booty.sh https://raw.githubusercontent.com/hexnano/booty/main/miner
+#.   chmod +x booty.sh
+#    ./booty.sh
+
 
 echo "####### BigBootyHunter's Mobile Miner Installation Script V2 ########"
+base64 -d <<<"H4sIAJM2MVYAA1NQgAEDIIhHBsgCBmgAU8TAQJsL2SgU41AFiDALYRhUF8I0NAEUCbBZUB7MBGRrUXX
+g8DC6CagORwkYtDCDcw3IMwDdOBL1IyRRwpBI7cihTlSYkRRNUHcRnUZgXIQGIlOoOQC/4ufk0gIAAA==" | gunzip
 apt-get update  
 apt-get upgrade
 apt-get install wget
