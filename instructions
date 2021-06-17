@@ -16,3 +16,8 @@ Y 438k Disk?
 
 Y install ubuntu-termux?
 
+###Once you reach root@localhost
+
+apt update
+
+apt upgrade
