@@ -24,3 +24,6 @@ apt upgrade
 
 Y 138 Disk kb?
 
+apt install curl
+
+Y 15.8MB Disk?
