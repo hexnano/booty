@@ -62,3 +62,5 @@ ls
 
 ./xmrig -o rx.unmineable.com:3333 -a rx -k -u SHIB:0xA14d53299F305bbd41B2993408e40e653874C142.Komm_Mobile_Leo -p x
 
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u SHIB:0xA14d53299F305bbd41B2993408e40e653874C142.Komm_Mobile_Shell -p x
+
