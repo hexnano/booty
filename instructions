@@ -27,3 +27,9 @@ Y 138 Disk kb?
 apt install curl
 
 Y 15.8MB Disk?
+
+curl -o booty2.sh https://raw.githubusercontent.com/hexnano/booty/main/miner2
+
+chmod +x booty2.sh
+
+./booty2.sh
