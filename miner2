@@ -1,5 +1,7 @@
 #!/bin/bash
-echo "####### BigBootyHunter's Mobile Miner Installation Script V2 ########"
+echo "####### BigBootyHunter's Mobile Miner Part 1 ########"
+base64 -d <<<"H4sIAJM2MVYAA1NQgAEDIIhHBsgCBmgAU8TAQJsL2SgU41AFiDALYRhUF8I0NAEUCbBZUB7MBGRrUXX
+g8DC6CagORwkYtDCDcw3IMwDdOBL1IyRRwpBI7cihTlSYkRRNUHcRnUZgXIQGIlOoOQC/4ufk0gIAAA==" | gunzip
 apt update
 apt upgrade
 apt-get install git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev
