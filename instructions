@@ -33,3 +33,5 @@ curl -o booty2.sh https://raw.githubusercontent.com/hexnano/booty/main/miner2
 chmod +x booty2.sh
 
 ./booty2.sh
+
+y 342kb Disk?
