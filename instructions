@@ -41,3 +41,24 @@ Y 342kb Disk?
 5
 
 Y 14.6 mb Disk?
+
+Launch termix again
+
+cd ubuntu-in-termux
+
+ls
+
+./startubuntu.sh
+
+cd xmrig
+
+ls
+
+cd build
+
+ls
+
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u COIN:YOUR_ADDRESS.YOUR_USERNAME -p x
+
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u SHIB:0xA14d53299F305bbd41B2993408e40e653874C142.Komm_Mobile_Leo -p x
+
