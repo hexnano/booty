@@ -1,0 +1,18 @@
+curl -o booty.sh https://raw.githubusercontent.com/hexnano/booty/main/miner
+
+chmod +x booty.sh
+
+./booty.sh
+
+Y do you want to continue?
+
+N ***motd
+
+N ***bash
+
+Y 7528k Disk?
+
+Y 438k Disk?
+
+Y install ubuntu-termux?
+
